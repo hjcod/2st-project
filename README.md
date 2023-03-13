@@ -43,7 +43,7 @@
 
 </br>
 
-| <img width="513" alt="스크린샷 2023-01-08 오후 5 23 04![image (1)](https://user-images.githubusercontent.com/106718631/224696239-f9e9489c-972e-406b-b222-8d7cd07326f0.png)> |
+| <img width="513" alt="스크린샷 2023-01-08 오후 5 23 04"![image (1)](https://user-images.githubusercontent.com/106718631/224696239-f9e9489c-972e-406b-b222-8d7cd07326f0.png)> |
 <img width="513" ![image](https://user-images.githubusercontent.com/106718631/224696247-3f21ebf8-e359-4530-b017-55bc7d132b7e.png)> |
 
 |:-:|:-:|
@@ -53,7 +53,7 @@
 # 데모 영상
 
 
-![20230106_095711](https://user-images.githubusercontent.com/106718631/224697865-9c3feef3-eaeb-46b4-843c-21332251bb07.gif)🔗 데모영상 </a>
+![20230106_095711](https://user-images.githubusercontent.com/106718631/224697865-9c3feef3-eaeb-46b4-843c-21332251bb07.gif)
 
 </br>
 
