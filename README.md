@@ -43,7 +43,7 @@
 
 </br>
 
-| <img width="513" alt="스크린샷 2023-01-08 오후 5 23 04" src="https://wecode-bootcamp.slack.com/files/U045C238N81/F04HFFR9HUN/image.png"> | <img width="1406" alt="스크린샷 2023-01-08 오후 5 24 05" src="https://wecode-bootcamp.slack.com/files/U045C238N81/F04HN3W042W/image.png"> |
+| <img width="513" alt="스크린샷 2023-01-08 오후 5 23 04" src="https://ibb.co/FztR0D5"> | <img width="1406" alt="스크린샷 2023-01-08 오후 5 24 05" src="https://wecode-bootcamp.slack.com/files/U045C238N81/F04HN3W042W/image.png"> |
 |:-:|:-:|
 
 </br>
