@@ -53,7 +53,7 @@
 # 데모 영상
 
 
-<a href="https://wecode-bootcamp.slack.com/files/U044SQ1DUCW/F04HR1DUQJE/20230106_095711.gif" > 🔗 데모영상 </a>
+![20230106_095711](https://user-images.githubusercontent.com/106718631/224697865-9c3feef3-eaeb-46b4-843c-21332251bb07.gif)🔗 데모영상 </a>
 
 </br>
 
