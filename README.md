@@ -42,10 +42,10 @@
 </div>
 
 </br>
-
-<img width="513" src="https://user-images.githubusercontent.com/106718631/224696239-f9e9489c-972e-406b-b222-8d7cd07326f0.png" > | <img width="513" src="https://user-images.githubusercontent.com/106718631/224696247-3f21ebf8-e359-4530-b017-55bc7d132b7e.png">
-
+|*|*|
 |:-:|:-:|
+<img width="513" alt="스크린샷 2023-01-08 오후 5 23 04"! src="https://user-images.githubusercontent.com/106718631/224696239-f9e9489c-972e-406b-b222-8d7cd07326f0.png" > | <img width="513" src="https://user-images.githubusercontent.com/106718631/224696247-3f21ebf8-e359-4530-b017-55bc7d132b7e.png">
+
 
 </br>
 
