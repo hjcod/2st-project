@@ -55,21 +55,8 @@
 
 </br>
 
-# 구현 기능
-
-| 카카오로그인 | <img width=50% src=https://user-images.githubusercontent.com/83495141/211184538-ec7381b9-efe8-459c-97aa-3196e6ea8de4.gif> |
-| :--: | :--: |
-| 스타일페이지 | <img width=50% src=https://user-images.githubusercontent.com/83495141/211184537-07565dbf-58d9-486d-a9e0-57ffdea232b2.gif> |
-| 메인페이지 | <img width=50% src=https://user-images.githubusercontent.com/83495141/211184772-36a189c3-662d-4be2-af78-84ccf3646262.gif> | 
-| 카테고리 페이지 | <img width=50% src=https://user-images.githubusercontent.com/83495141/211184535-3ed20c0c-d26c-4b71-aed3-9e493129ca85.gif> |
-| 상세 페이지 | <img width=50% src=https://user-images.githubusercontent.com/83495141/211184533-623a0c6d-d08b-40c4-a1f1-2931d20b7547.gif> |
-| 그래프 | <img width=50% src=https://user-images.githubusercontent.com/83495141/211184525-339aeea5-0862-45aa-98d6-14a4cac0c864.gif> |
-| 입찰 페이지 | <img width=50% src=https://user-images.githubusercontent.com/83495141/211184532-9d45f952-ff36-4918-b143-47032573faab.gif> |
-
-</br>
-
 # Reference
-- 이 프로젝트는 [KREAM](https://kream.co.kr/) 사이트를 참조하여 학습목적으로 만들었습니다.
+- 이 프로젝트는 [술담화](https://www.sooldamhwa.com/) 사이트를 참조하여 학습목적으로 만들었습니다.
 - 실무수준의 프로젝트이지만 학습용으로 만들었기 떄문에 이 코드를 활용하여 이득을 취하거나 무단 배포할 경우 법적으로 문제될 수 있습니다.
 - 이 프로젝트에서 사용하고 있는 사진 대부분은 위코드에서 구매한 것이므로 해당 프로젝트 외부인이 사용할 수 없습니다.
 - 이 프로젝트에서 사용하고 있는 로고와 배너는 해당 프로젝트 팀원 소유이므로 해당 프로젝트 외부인이 사용할 수 없습니다.
